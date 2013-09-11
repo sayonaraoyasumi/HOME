@@ -1,16 +1,16 @@
 
 
-EKTƒvƒƒWƒFƒNƒg
-@https://github.com/sayonaraoyasumi/KTproject
+ãƒ»KTãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
+ã€€https://github.com/sayonaraoyasumi/KTproject
 
-@iPhone & Android —p
+ã€€iPhone & Android ç”¨
 
 
-EƒTƒCƒgƒeƒXƒg
-@https://github.com/sayonaraoyasumi/sitetest
+ãƒ»ã‚µã‚¤ãƒˆãƒ†ã‚¹ãƒˆ
+ã€€https://github.com/sayonaraoyasumi/sitetest
 
-@GitHub ‚Ì—ûK—pB
-@’N‚Å‚àCollaborator‚É—U‚¤‚Ì‚ÅA—U‚Á‚Ä—~‚µ‚¢l‚Íº‚ğ‚©‚¯‚Ä‚­‚¾‚³‚¢B
+ã€€GitHub ã®ç·´ç¿’ç”¨ã€‚
+ã€€èª°ã§ã‚‚Collaboratorã«èª˜ã†ã®ã§ã€èª˜ã£ã¦æ¬²ã—ã„äººã¯å£°ã‚’ã‹ã‘ã¦ãã ã•ã„ã€‚
 
 
 
